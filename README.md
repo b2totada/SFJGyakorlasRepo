@@ -1,0 +1,2 @@
+# SFJGyakorlasRepo
+Teszt repo
